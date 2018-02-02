@@ -1,6 +1,6 @@
 # Community Governance
 
-This is the home of the [NeoResearch](https://github.com/NeoResearch) community rules.
+This is the home of the [NeoResearch](neoresearch.io) community rules.
 The goal of this team is to develop cutting edge technologies involving blockchain, optimization and high-performance computing for the NEO ecosystem. Although this community is neither a private company nor any legal formal organization, we intend to use it for providing a formal structure to embrace technological projects to improve NEO platform.
 
 
