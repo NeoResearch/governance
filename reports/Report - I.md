@@ -48,4 +48,4 @@ We are proposing a logo for NeoResearch with the following idea:
 
 * Finally, black represents the struggle to bring enlightenment and vision to adopt these groundbreaking and society changing technologies.
 
-![NeoResearch logo](./image.png)
+![NeoResearch logo](./NeoResearch-Logo.png)
